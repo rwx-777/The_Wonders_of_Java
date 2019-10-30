@@ -6,4 +6,5 @@ Crazy_Java_Code1:
 - How does it execute ?
 
 Solution:
-- \u000d is the unicode character for "newline"
+- \u000d is the unicode character for "newline". So when Java first runs the code, 
+it replaces the unicode characters with the actual meaning. 
