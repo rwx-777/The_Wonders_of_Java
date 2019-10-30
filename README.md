@@ -4,5 +4,6 @@ This is a repo dedicated to uncovering and showing some of the strangest Java Pr
 Crazy_Java_Code1:
 - Why does it execute ?
 - How does it execute ?
+
 Solution:
 - \u000d is the unicode character for "newline"
